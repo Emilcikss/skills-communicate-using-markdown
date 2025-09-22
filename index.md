@@ -7,5 +7,6 @@
 ###### This is an `<h6>` header, which is the smallest
 ZXC
 zzzzzz
-''' System.out.println(someVariable);
+''' javascript
+var myVar = "Hello, world!";
 '''
